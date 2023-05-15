@@ -71,77 +71,8 @@ const About = () => {
 
                     
 
-                </div>
-                /* <div className="row mt-5">
-               
-                    <div className="col-md-6 fs-1">
-                        <h1>Brothers from</h1>
-                        <h1><span class="orange-highlight">Another</span> Mother </h1>
-
-                        <p>Growing apart doesn’t change the fact that for a long time we grew side by side; our roots will always be tangled. I’m glad for that. </p>
-                        
-
-                    </div>
-                    <div className="col-md-6">
-                        <img className="img-fluid rounded mt-5 pt-5" src="/images/friends.jpg" alt="" />
-                    </div>
-
-                    
-
-                </div>
-                <div className="row mt-5">
-               
-                    <div className="col-md-12 fs-2 text-center">
-                        <h1>Hobbies  </h1>
-                      
-
-                        <p>My hobbies include playing the guitar, do coding, take photos and watch anime </p>
-                        
-
-                    </div>
-                    <div className="col-md-4">
-                        <img className="img-fluid rounded mt-5 pt-5" src="/images/guitar.jpeg" alt="" />
-                    </div>
-                    <div className="col-md-7 ">
-                        <img className="img-fluid rounded mt-5 pt-5" src="/images/camera.jpg" alt="" />
-                    </div>
-                    <div className="col-md-5">
-                        <img className="img-fluid rounded mt-5 pt-5" src="/images/anime.jpg" alt="" />
-                    </div>
-                    <div className="col-md-7">
-                        <img className="img-fluid rounded mt-5 pt-5" src="/images/computer.jpg" alt="" />
-                    </div>
-
-                    
-
-                </div>
-                <div className="row mt-5">
-               
-                    <div className="col-md-12 fs-2 text-center">
-                        <h1>Some of my Favourite Anime Quotes</h1>
-                      
-
-                        
-                        
-
-                    </div>
-                    <div className="col-md-6">
-                        <img className="img-fluid rounded mt-5 pt-5" src="/images/anime6.jpg" alt="" />
-                    </div>
-                    <div className="col-md-6">
-                        <img className="img-fluid rounded mt-5 pt-5" src="/images/anime3.jpg" alt="" />
-                    </div>
-                    <div className="col-md-6">
-                        <img className="img-fluid rounded mt-5 pt-5" src="/images/anime4.jpg" alt="" />
-                    </div>
-                    <div className="col-md-6">
-                        <img className="img-fluid rounded mt-5 pt-5" src="/images/anime8.png" alt="" />
-                    </div>
-
-                    
-
-                </div>
-                */
+                
+         
                 <div className="row mt-5">
                
                     <div className="col-md-12 fs-2 text-center">
